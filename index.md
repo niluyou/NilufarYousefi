@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+
+
 # About Me
 
 I am currently pursuing my Ph.D. in Electrical Engineering at the University of Toronto under the supervision of Professor <a href="https://www.control.utoronto.ca/~jwsimpson/">John W. Simpson-Porco</a>. Before this, I earned my Master's degree at Queen's University (2023) in ePOWER group and completed my undergraduate studies at Isfahan University of Technology (2021) majoring in control.  My expertise lies in the intricate domains of Control Systems and Power Systems. I am driven by a passion for advancing research and innovation in these fields.
