@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-I am currently a PhD student at the University of Toronto.
+I currently pursuing my Ph.D. in Electrical Engineering at the esteemed University of Toronto. Before this, I earned my Master's degree at Queen's University (2023) in power electronics and completed my undergraduate studies at Isfahan University of Technology (2021) majoring in control.  My expertise lies in the intricate domains of Control Systems and Power Systems. I am driven by a passion for advancing research and innovation in these fields.
 
 # Papers
 <ul>
@@ -27,3 +27,13 @@ I am currently a PhD student at the University of Toronto.
 </ul>
 
 # Research Interests
+<u1>
+  <li>Control Systems</li>
+  <li>Optimization</li>
+  <li>Smart Grid</li>
+  <li>Model Predictive Control</li>
+  <Li>Power Converter Control</Li>
+  
+
+
+</u1>
